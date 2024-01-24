@@ -711,6 +711,7 @@ body.active { overflow: hidden; }
   justify-content: center;
   gap: 10px;
   margin-block-end: 40px;
+  
 }
 
 .filter-btn {
